@@ -1,5 +1,7 @@
 ## Building a libc offset database
 
+> 苦于代理问题，相关url换成了国内源，另外由于个人问题，debian部分去掉了。
+
 Fetch all the configured libc versions and extract the symbol offsets.
 It will not download anything twice, so you can also use it to update your
 database:
